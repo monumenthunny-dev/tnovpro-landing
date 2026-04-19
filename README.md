@@ -32,5 +32,3 @@ Selecting a GIF sends it as an attachment in the current chat.
 ## Status
 
 Active development. Production deployment serves the company internally. The source repository is private by company policy; this page exists as a public overview of the product.
-
-For questions, contact the engineering team at PM Nova: [https://pm-nova.ru](https://pm-nova.ru).
